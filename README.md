@@ -52,11 +52,11 @@ Python 3.10 e Scikit-learn
 
 ## 3.0 Resultados
 ### 3.1 Classification Essay
-![classification](../img/classification_results.png)
+![classification](img/classification_results.png)
 ### 3.2 Regression Essay
-![regression](../img/regression_results.png)
+![regression](img/regression_results.png)
 ### 3.3 Clustering Essay
-![clustering](../img/clustering_results.png)
+![clustering](img/clustering_results.png)
 ## 4.0 Conclusão
 Esse foi meu primeiro contato com algoritmos de Machine Learning. 
 Ao fazer o ensaio, pude perceber que existem diversos algoritmos diferentes, cada um com sua especificidade.
