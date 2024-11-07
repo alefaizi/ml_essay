@@ -13,16 +13,19 @@ A principal tarefa desse projeto é realizar três ensaios: Classificação, Reg
 ### 2.2 Algoritmos e Métricas do ensaio
 #### 2.2.1 Classificação
 **Algoritmos**: KNN, Decision Tree, Random Forest e Logistic Regression
+
 **Métricas de Performance**: Accuracy, Precision, Recall e F1-Score
 
 #### 2.2.2 Regressão
 **Algoritmos**: Linear Regression, Decision Tree Regressor, Random Forest Regressor, Polinomial
 Regression, Linear Regression Lasso, Linear Regression Ridge, Linear Regression Elastic Net,
 Polinomial Regression Lasso, Polinomial Regression Ridge e Polinomial Regression Elastic Net
+
 **Métricas de Performance**: R2, MSE, RMSE, MAE e MAPE
 
 #### 2.2.3 Clusterização
 **Algoritmos**: K-Means e Affinity Propagation
+
 **Métricas de Performance**: Silhouette Score
 
 ### 2.3 Ferramentas Utilizadas
@@ -49,11 +52,11 @@ Python 3.10 e Scikit-learn
 
 ## 3.0 Resultados
 ### 3.1 Classification Essay
-![classification](img/classification_results.png)
+![classification](../img/classification_results.png)
 ### 3.2 Regression Essay
-![regression](img/regression_results.png)
+![regression](../img/regression_results.png)
 ### 3.3 Clustering Essay
-![clustering](img/clustering_results.png)
+![clustering](../img/clustering_results.png)
 ## 4.0 Conclusão
 Esse foi meu primeiro contato com algoritmos de Machine Learning. 
 Ao fazer o ensaio, pude perceber que existem diversos algoritmos diferentes, cada um com sua especificidade.
