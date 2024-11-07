@@ -57,20 +57,28 @@ Python 3.10 e Scikit-learn
 ![regression](img/regression_results.png)
 ### 3.3 Clustering Essay
 ![clustering](img/clustering_results.png)
+
 ## 4.0 Conclusão
 Esse foi meu primeiro contato com algoritmos de Machine Learning. 
 Ao fazer o ensaio, pude perceber que existem diversos algoritmos diferentes, cada um com sua especificidade.
 
+Pude trabalhar com os principais algoritmos, variando seus parâmetros e testando sua performance em diferentes contextos.
 
+Além disso, consegui entender mais sobre as limitações de cada algoritmo, overfitting, underfitting, sensibilidade a outliers e comportamento no geral.
 
 ## 5.0 Top 3 Insights
 ### 5.1 Insight 1
+É importante compreender o problema de negócio, para que assim seja possível escolher quais os melhores algoritmos para cada situação.
 
 ### 5.2 Insight 2
+Calibrar os parâmetros e validar o treinamento utilizando as métricas de performance corretas, precisa ser feito com total cuidado e atenção. 
+Encontrar equilíbrio entre viés e variância, pois o algoritmo precisa ser complexo o suficiente para entender o comportamento e generalizar, mas não tão pode ser complexo a ponto de "decorar" os dados.
 
 ### 5.3 Insight 3
+No caso do ensaio de Clusterização, os resultados não apresentaram boas métricas de performance, isso demonstra a necessidade de investigar melhor os atributos e coleta dos dados.
 
 ## 6.0 Próximos Passos
 - Aprofundar os conhecimentos nos algoritmos estudados;
-- Conhecer e estudar novos algoritmos;
-- Refazer os ensaios incrementando o número de algoritmos, testando novos parâmetros e métricas.
+- Conhecer, estudar e ensaiar novos algoritmos;
+- Refazer os ensaios incrementando o número de algoritmos, testando novos parâmetros e métricas;
+- Aplicar o que foi estudado no dia a dia.
